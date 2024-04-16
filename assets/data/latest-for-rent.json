@@ -315,9 +315,9 @@
     "thumbnail": "assets/images/property/9.jpg",
     "propertyStatus": "For Sale",
     "country": "FRANCE",
-    "title": "High Valley Fields",
+    "title": "Projet RUCHE",
     "price": 5580,
-    "details": "A great name for a ranch surrounded by valleys. This home provides wonderful entertaining spaces with a chef kitchen opening.",
+    "details": "remettre les usagers au Centre de la lutte contre le VIH en Guinée et en Côte d’Ivoire",
     "home": "Virtual Home",
     "bed": 1,
     "bath": 1,
@@ -358,9 +358,9 @@
     "thumbnail": "assets/images/property/12.jpg",
     "propertyStatus": "For Rent",
     "country": "FRANCE",
-    "title": "Home in Merrick Way",
+    "title": "Projet SANSAS",
     "price": 6558,
-    "details": "Elegant retreat in a quiet Coral Gables setting. This home provides wonderful entertaining spaces with a chef kitchen opening.",
+    "details": "renforcer et promouvoir la santé reproductive des adolescent.e.s et jeunes du Sénégal",
     "home": "Virtual Home",
     "bed": 1,
     "bath": 1,
@@ -385,23 +385,23 @@
         "fileType": "image"
       },
       {
-        "url": "assets/images/property/13.jpg",
+        "url": "assets/images/property/12.jpg",
         "fileType": "image"
       },
       {
-        "url": "assets/images/property/14.jpg",
+        "url": "assets/images/property/9.jpg",
         "fileType": "image"
       },
       {
-        "url": "assets/images/property/15.jpg",
+        "url": "assets/images/property/10.jpg",
         "fileType": "image"
       }
     ],
     "thumbnail": "assets/images/property/11.jpg",
     "country": "FRANCE",
-    "title": "Hillock Corner",
+    "title": "NFM3",
     "price": 6558,
-    "details": "The most common and most absolute type of estate, the tenant enjoys the greatest discretion over the disposal of the property.",
+    "details": "Renforcer les capacités des personnels de santé pour accélérer la lutte contre le VIH",
     "home": "Awesome Home",
     "bed": 2,
     "bath": 1,

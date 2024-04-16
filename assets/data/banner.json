@@ -11,9 +11,9 @@
     {
         "id" : 2,
         "type" : "corporate",
-        "title" : "Are you worried <br/> sick about moving out?",
-        "desc" : "We know how it feels! Elegant retreat in a quiet Coral Gables setting. This home provides wonderful entertaining spaces with a chef kitchen opening Elegant retreat in a quiet Coral Gables setting.",
-        "button1Text" : "Submit property"
+        "title" : "Rejoignez nos équipes !",
+        "desc" : "S’engager aux côtés de Solthis c’est l’opportunité de mettre à profit vos compétences spécifiques au service des programmes d’une ONG de solidarité internationale reconnue pour son expertise en santé et développement. Nous mettons notre professionnalisme et notre engagement au service d'une démarche de développement de long terme sur le terrain.",
+        "button1Text" : "Se renseigner"
     },
     {
       "id" : 3,

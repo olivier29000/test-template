@@ -21,19 +21,19 @@
     {
         "id" : 3,
         "type" : "corporate",
-        "img" : "assets/images/blog/1.jpg",
-        "title" : "How Much is My Land Worth ?",
-        "subTitle" : "Elegant retreat in a quiet Coral Gables setting. This home provides wonderful entertaining spaces with a chef kitchen opening Elegant retreat in a quiet Coral Gables setting.",
-        "buttonText" : "View More",
+        "img" : "assets/images/blog/1redim.jpg",
+        "title" : "La santé est un droit, y accéder est vital",
+        "subTitle" : "Solthis est une ONG de solidarité internationale dont la mission est d'améliorer durablement la santé des populations, particulièrement les plus exposées, dans les pays à ressources limitées, et de renforcer leur accès à des services de santé de qualité.",
+        "buttonText" : "Découvrir",
         "path" : ""
     },
     {
         "id" : 4,
         "type" : "corporate",
-        "img" : "assets/images/blog/2.jpg",
-        "title" : "How Much is My House Worth ?",
-        "subTitle" : "This home provides wonderful entertaining spaces with a chef kitchen opening Elegant retreat in a quiet Coral Gables setting. Elegant retreat in a quiet Coral Gables setting.",
-        "buttonText" : "View More",
+        "img" : "assets/images/blog/2redim.jpg",
+        "title" : "Pour un monde où hommes et femmes sont égaux·les et en bonne santé",
+        "subTitle" : "La santé est un droit fondamental pour tout·te⋅s. Au cœur de toutes les politiques sociales, elle impacte la vie des individus et leur environnement. Les interventions en santé ont souvent été abordées sous l'angle « curatif ». Aujourd'hui, les politiques de prévention s'imposent comme un complément indispensable des approches thérapeutiques.",
+        "buttonText" : "Voir Plus",
         "path" : ""
     },
     {
